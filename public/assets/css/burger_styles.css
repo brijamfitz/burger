@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    padding: 20px;
+}
+h2 {
+    font-family: 'Fredoka One', cursive;
+    padding: 20px 0px 10px 0px;
+}
+img {
+    height: 345px;
+    width: 365px;
+}
+p,
+label,
+button {
+    font-family: 'Courier New', Courier, monospace;
+}
+#devoured-section {
+    text-align: right;
+}
+#add-burger {
+    text-align: center;
+}
+#ready-to-eat {
+    color: black;
+}
