@@ -7,7 +7,7 @@ VALUES ('Baconator');
 INSERT INTO burgers (burger_name)
 VALUES ('McDouble');
 INSERT INTO burgers (burger_name)
-VALUES ('Hamburger');
+VALUES ('Veggie Burger');
 
 SELECT * FROM burgers;
 
