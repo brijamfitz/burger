@@ -1,5 +1,7 @@
 # Eat-Da-Burger
 
+Experience here: [Eat-Da-Burger](https://guarded-fortress-75099.herokuapp.com/)
+
 Eat-Da-Burger is a restuarant app that allows users to do the following:
 
 * Input the name of a burger they would like to eat
@@ -8,7 +10,9 @@ Eat-Da-Burger is a restuarant app that allows users to do the following:
 * Clicking the "Devour It!" button will move the burger to the "Devoured Burgers" section on the right
 * All burgers and their state are stored in a database
 
-Tech Used:
+The Eat-Da-Burger app utilizes an MVC design framework.
+
+**Tech Used:**
 * MySQL
 * Node.js
 * Express
@@ -19,8 +23,10 @@ Tech Used:
 * Bootstrap
 * CSS
 
-The Eat-Da-Burger app utilizes a MVC design framework
+&nbsp;
 
+Designed, built, and maintained by Brian Fitzgerald
 
+Email: brianjfitzgerald@gmail.com
 
-Engineered by Brian Fitzgerald
+&#169; 2018
